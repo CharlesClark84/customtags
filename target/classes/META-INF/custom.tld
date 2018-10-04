@@ -18,4 +18,14 @@
         <tag-class>com.charlesclark.customtags.GreetingTag</tag-class>
         <body-content>empty</body-content>
     </tag>
+
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Hello World Tag Lib Demo</short-name>
+    <uri>http://charlesclark.com/tags</uri>
+    <tag>
+        <name>Time</name>
+        <tag-class>com.charlesclark.customtags.Greeting</tag-class>
+        <body-content>empty</body-content>
+    </tag>
 </taglib>
